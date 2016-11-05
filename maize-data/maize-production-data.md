@@ -30,28 +30,25 @@
 
 - **Zinc deficiency** is characterized by __light streaks or bands between the veins from the leaf base to the tip__.  
 
-## Maize varieties  
-1. __**Highland maize**__  
-- Recommended for medium to high altitudes (1500-2100m).  
-- Day temperatures <= 28 C and night temperatures drop to as low as 8 C.  
-- Rainfall: 800-1500mm.  
+## Maize varieties 
+### Highland maize
+1. Recommended for medium to high altitudes (1500-2100m).  
+2. Day temperatures <= 28 C and night temperatures drop to as low as 8 C.  
+3. Rainfall: 800-1500mm.  
 
-2. __**Medium Altitude Agro-Ecozone**__  
-- Altitude: 100-1700m.  
-- Rainfall: 750-1000mm.  
+### Medium Altitude Agro-Ecozone
+1. Altitude: 100-1700m.  
+2. Rainfall: 750-1000mm.  
 
-3. __**Transitional zone**__  
-- Altitude: 1000-1700m.  
-- Temperatures: 12C to 30C.  
-- Rainfall: 800-1500mm.  
+### Transitional zone
+1. Altitude: 1000-1700m.  
+2. Temperatures: 12C to 30C.  
+3. Rainfall: 800-1500mm.  
 
-4. __**Lowland Agro-Ecozone**__  
-- Altitude: 0-1250m.  
-- Rainfall: 400mm.  
+### Lowland Agro-Ecozone 
+1. Altitude: 0-1250m.  
+2. Rainfall: 400mm.  
 
-5. __**Dryland Agro-Ecozone**__  
-- Altitude: 100-500m.  
-- Marginal rainfall.  
-
-6. __**Dryland Agro-Ecozone**__  
-- Rainfall is less than 350mm.
+### Dryland Agro-Ecozone  
+1. Altitude: 100-500m.  
+2. Marginal rainfall. Rainfall is less than 350mm.
